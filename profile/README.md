@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to Disoka Inc. profile on GitHub!
+
+Business website: https://www.disoka.com
+
+Disoka is a small business that specializes in Strategy, Design and Technology solutions for our Clients.
+
 <!--
 
 **Here are some ideas to get you started:**
